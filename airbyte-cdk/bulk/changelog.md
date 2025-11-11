@@ -1,3 +1,13 @@
+## Version 0.1.74
+
+load cdk: split up ensureSchemaMatches into smaller functions
+
+## Version 0.1.73
+
+**Load CDK**
+
+* More changes to `IcebergTableSynchronizer` to get BigLake working
+
 ## Version 0.1.72
 
 **Extract CDK**
